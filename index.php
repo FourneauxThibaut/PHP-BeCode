@@ -27,9 +27,6 @@
                               <a style="color: #4C3B4D; text-decoration: none;" href="http://becode/fundamentals/conditions">Conditions</a>
                         </li>
                         <li style="margin-top: 1vh;">
-                              <a style="color: #4C3B4D; text-decoration: none;" href="http://becode/fundamentals/drill">Drill</a>
-                        </li>
-                        <li style="margin-top: 1vh;">
                               <a style="color: #4C3B4D; text-decoration: none;" href="http://becode/fundamentals/excuse">Fake Excuse Notes Generator</a>
                         </li>
                         <li style="margin-top: 1vh;">
@@ -52,19 +49,19 @@
             <li style="margin-top: 1vh;">
                   <h3>SQL</h3>
                   <ul style="list-style: none;">
-                        <li style="margin-top: 1vh;">awaiting..</li>                  
+                        <li style="margin-top: 1vh;">pending..</li>                  
                   </ul>
             </li>
             <li style="margin-top: 1vh;">
                   <h3>POO</h3>
                   <ul style="list-style: none;">
-                        <li style="margin-top: 1vh;">awaiting..</li>                  
+                        <li style="margin-top: 1vh;">pending..</li>                  
                   </ul>
             </li>
             <li style="margin-top: 1vh;">
                   <h3>Challenge</h3>
                   <ul style="list-style: none;">
-                        <li style="margin-top: 1vh;">awaiting..</li>                  
+                        <li style="margin-top: 1vh;">pending..</li>                  
                   </ul>
             </li>
       </ul>
