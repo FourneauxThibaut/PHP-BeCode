@@ -1,0 +1,18 @@
+#textContainer{
+      div:first-child > p:first-child{
+            transition-duration: 0.6s;
+      }
+      cursor: pointer;
+}
+
+.separateText{
+      div:first-child > p:first-child{
+            margin-top: -1.7rem;
+            transition-duration: 1s;
+      }
+}
+      
+.displayFirst{
+      outline: 3px solid #a5a8ac;
+      outline-offset: 4px;
+}

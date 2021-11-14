@@ -1,6 +1,6 @@
 {
       "files.exclude": {
-            "fundamentals/human.gif": false
+            "fundamentals/human.gif": true
       },
-      "workspace.isHidden": false
+      "workspace.isHidden": true
 }

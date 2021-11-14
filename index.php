@@ -39,11 +39,8 @@
                               <a style="color: #4C3B4D; text-decoration: none;" href="http://becode/fundamentals/functions">Functions</a>
                         </li>              
                         <li style="margin-top: 1vh;">
-                              <a style="color: #4C3B4D; text-decoration: none;" href="http://becode/fundamentals/form">Form</a>
-                        </li>                     
-                        <li style="margin-top: 1vh;">
-                              <a style="color: #4C3B4D; text-decoration: none;" href="http://becode/fundamentals/cookies">Cookies</a>
-                        </li>                     
+                              <a style="color: #4C3B4D; text-decoration: none;" href="http://becode/fundamentals/font">Font_Exercices</a>
+                        </li>             
                   </ul>
             </li>
             <li style="margin-top: 1vh;">
